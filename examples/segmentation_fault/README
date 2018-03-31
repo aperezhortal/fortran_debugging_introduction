@@ -1,0 +1,18 @@
+Example of segmentation fault error
+===================================
+
+This is an example of a segmentation fault error.
+It also shows how memory can be corrupted by writing elements of and 
+array that it is out of bounds.
+
+Two compilations available
+* compile.sh : Compilation with out any extra flags
+* compile_with_debug.sh : Compilation with debug flags
+
+IMPORTANT!
+----------
+
+This error is compiler dependent!. The executable compiled using gfortran it is included.
+
+* segmentation_fault : Executable compiled with out any extra flags
+* segmentation_fault_with_debug : Executable compiled with with debug flags

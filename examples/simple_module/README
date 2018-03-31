@@ -1,0 +1,7 @@
+Simple module example
+=====================
+
+To compile and show the object contents just run 
+$> ./compile.sh
+
+

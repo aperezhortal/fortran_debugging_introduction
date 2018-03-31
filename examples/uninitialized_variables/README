@@ -1,0 +1,6 @@
+Example of undefined behavior due to unitialized variables
+==========================================================
+
+This is an example of of undefined behavior due to unitialized variables
+
+Run "./compile.sh" to try to compile this source.

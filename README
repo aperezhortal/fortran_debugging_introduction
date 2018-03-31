@@ -1,0 +1,35 @@
+Introduction to Fortran Debugging 
+=================================
+
+Programming is a complex process. Since it is done by human beings, errors may often occur. 
+Debugging is the process of finding and resolving defects or problems within the program 
+that prevent correct operation of computer software (called "bugs").
+In order to fix these errors, first, we need to understand the what they are and how they can
+occur. This tutorial reviews the most common types of errors and
+present simple ways to locate and correct those errors without the use of any debugging applications.
+The common errors are illustrated using simple Fortran applications where the simple debugging techniques
+are applied.
+
+
+Contents
+--------
+
+-README : This file
+
+-LICENSE: License file
+
+-examples/ : Directory with Fortran applications examples
+  |_example_project : Example project
+  |_example_project_2 : More complex example project
+  |_floating_point_exception : Example of a floating point exception
+  |_segmentation_fault : Example of a segmentation fault error
+  |_segmentation_fault_stacktrace : More complex example of a segmentation fault error
+  |_simple_module : Simple module example
+  |_syntaxError : Example of a syntax error
+  |_typeMismatchError : Example of a type mismatch error
+  |_undefinedReferenceError : Example of a udefined reference error ocurring during compilation
+  |_uninitialized_variables : Example of error due to uninitialized variables
+
+-presentation/ : Beamer presentation
+
+

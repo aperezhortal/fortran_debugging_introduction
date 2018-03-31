@@ -1,0 +1,9 @@
+Simple example program
+====================== 
+
+myProgram calls a function in the library libgeometry.a
+
+To compile the program run:
+$> make
+
+A detailed compilation procedure it is also included in the compile.sh file.

@@ -1,0 +1,10 @@
+# Git ignore file
+
+# Objects and mod files
+
+*.o
+*.mod
+
+# Developer environment files
+*.cbp
+*.layout
